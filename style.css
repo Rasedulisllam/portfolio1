@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+}
+
+img{
+    max-width:80%;
+}
+.wellcome-section{
+    display:flex;
+}
+.wellcome-section h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.orange{
+    color:orange;
+}
+.wellcome-section p{
+    color:dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient( 
+359deg
+ , #ff5722, #e91e639c);
+    display: inline-block;
+    padding: 13px 39px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 10px;
+}
+.half-side{
+    padding:40px;
+    width:50%;
+}
